@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<playlist>
+   <heading> Song List </heading>
+   <song>
+       <title> Kingston</title>
+       <artist> Artist: Faye Webster</artist>
+       <year> Year: 2019</year>
+       <genre> Genre: Indie </genre>
+   </song>
+   <song>
+       <title> Show Me How</title>
+       <artist> Artist: Men I Trust</artist>
+       <year> Year: 2019</year>
+       <genre> Genre: Indie </genre>
+   </song>
+   <song>
+       <title> Paprika</title>
+       <artist> Artist: Japanese Breakfast</artist>
+       <year> Year: 2021</year>
+       <genre> Genre: Indie </genre>
+   </song>
+   <song>
+       <title> Avant Gardener</title>
+       <artist> Artist: Courtney Barnett</artist>
+       <year> Year: 2015</year>
+       <genre> Genre: Indie </genre>
+   </song>
+   <song>
+       <title> Binz</title>
+       <artist> Artist: Solange</artist>
+       <year> Year: 2019</year>
+       <genre> Genre: RnB </genre>
+   </song>
+   <song>
+       <title> Ex-Factor</title>
+       <artist> Artist: Lauren Hill</artist>
+       <year> Year: 1998</year>
+       <genre> Genre: RnB </genre>
+   </song>
+   <song>
+       <title> Good Days</title>
+       <artist> Artist: SZA</artist>
+       <year> Year: 2020</year>
+       <genre> Genre: RnB </genre>
+   </song>
+   <song>
+       <title> Rude Boy</title>
+       <artist> Artist: Rihanna</artist>
+       <year> Year: 2009</year>
+       <genre> Genre: RnB </genre>
+   </song>
+   <song>
+       <title> First Class</title>
+       <artist> Artist: Jack Harlow</artist>
+       <year> Year: 2022</year>
+       <genre> Genre: Pop </genre>
+   </song>
+    <song>
+       <title> Bad Habit</title>
+       <artist> Artist: Steve Lacey</artist>
+       <year> Year: 2022</year>
+       <genre> Genre: Pop </genre>
+   </song>
+    <song>
+       <title> As it Was</title>
+       <artist> Artist: Harry Styles</artist>
+       <year> Year: 2022</year>
+       <genre> Genre: Pop </genre>
+   </song>
+    <song>
+       <title> Heat Waves</title>
+       <artist> Artist: Glass Animals</artist>
+       <year> Year: 2020</year>
+       <genre> Genre: Pop </genre>
+   </song>
+</playlist>
